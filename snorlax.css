@@ -15,17 +15,6 @@
     --claws: #fafafa;
 }
 
-body {
-    min-height: 100vh;
-    display: -webkit-box;
-    display: flex;
-    -webkit-box-align: center;
-    align-items: center;
-    background: #177082;
-    -webkit-box-pack: left;
-    justify-content: left;
-}
-
 .snorlax {
     height: calc(237 * var(--unit));
     width: calc(300 * var(--unit));
