@@ -5,7 +5,7 @@
 }
 
 :root {
-    --size: 10;
+    --size: 30;
     --unit: calc((var(--size) / 300) * 1vmin);
     --belly: #f1debb;
     --dark-belly: #b59c78;
